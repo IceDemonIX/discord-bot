@@ -1,6 +1,6 @@
 const Discord = require("discord.js")
-require("OTgzNDg5MTQ3Mjk1NjYyMTkw.GxBN7m.yvYVdfuc5LHQrlS-g79IUkGUK5AqpQ-aQGrEJw").config()
-const TOKEN = "OTgzNDg5MTQ3Mjk1NjYyMTkw.GxBN7m.yvYVdfuc5LHQrlS-g79IUkGUK5AqpQ-aQGrEJw"
+require("OTgzNDg5MTQ3Mjk1NjYyMTkw.GY3Cn9.G70Ml6RHMNW-q1w5qBDBi1Eyf6P0E5kPRRJdS0").config()
+const TOKEN = "OTgzNDg5MTQ3Mjk1NjYyMTkw.GY3Cn9.G70Ml6RHMNW-q1w5qBDBi1Eyf6P0E5kPRRJdS0"
 
 const client = new Discord.Client({ 
     intents:[
